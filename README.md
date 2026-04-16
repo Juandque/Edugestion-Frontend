@@ -16,4 +16,4 @@ Interfaz administrativa construida para una experiencia de usuario fluida y reac
 ## Pasos para desplegar
 - **Requisitos:** Debe tener docker y docker-compose instalados
 - **Levantar la interfaz:** `docker-compose up -d --build`
-- **Back-end**El Sistema back-end debe estar funcionando, puede encontrarlo aqui: 
+- **Back-end**El Sistema back-end debe estar funcionando, puede encontrarlo aqui: https://github.com/Juandque/Edugestion-Backend/tree/main
