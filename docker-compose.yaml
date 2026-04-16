@@ -1,0 +1,6 @@
+ services: 
+  frontend:
+    build: .
+    container_name: edugestion-web
+    ports:
+      - "80:80"
